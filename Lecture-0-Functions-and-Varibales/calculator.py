@@ -8,4 +8,3 @@ z = round(x + y)
 
 # using  :, formats the number from 1000 to 1,000
 print(f"{z:,}")
-

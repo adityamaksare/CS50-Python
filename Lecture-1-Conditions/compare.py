@@ -10,4 +10,3 @@ elif x > y:
 
 else:
     print('x is equal to y')
-
